@@ -29,6 +29,8 @@ class RecipeViewController: UIViewController {
         return card
     }()
 
+    
+    
     private let infoLabel: UILabel = {
         let label = UILabel()
         label.text = "Infos"
