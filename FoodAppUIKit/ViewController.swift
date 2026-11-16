@@ -15,7 +15,6 @@ class ViewController: UIViewController {
         view.translatesAutoresizingMaskIntoConstraints = false
         return view
     }()
-
     public func makeGlassButton(
         configuration: UIButton.Configuration,
         systemImageName: String? = nil,
@@ -132,3 +131,4 @@ class ViewController: UIViewController {
 #Preview {
     ViewController()
 }
+

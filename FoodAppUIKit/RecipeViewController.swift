@@ -16,7 +16,12 @@ class RecipeViewController: UIViewController {
         label.textAlignment = .center
         return label
     }()
-
+    private let colorButton: UIButton = {
+        let button = UIButton(type: .system)
+        button.setTitle("Color Rectangle", for: .normal)
+        button.translatesAutoresizingMaskIntoConstraints = false
+        return button
+    }()
     private let infoCard: UIView = {
         let card = UIView()
         card.backgroundColor = UIColor(named: "brownColor")
