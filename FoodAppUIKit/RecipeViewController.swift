@@ -4,6 +4,7 @@
 //
 //  Created by Maria Fernanda Braga Queiroz on 13/11/26.
 //
+
 import UIKit
 
 class RecipeViewController: UIViewController {
@@ -16,12 +17,14 @@ class RecipeViewController: UIViewController {
         label.textAlignment = .center
         return label
     }()
-    private let colorButton: UIButton = {
-        let button = UIButton(type: .system)
-        button.setTitle("Color Rectangle", for: .normal)
-        button.translatesAutoresizingMaskIntoConstraints = false
-        return button
-    }()
+    
+//    private let colorButton: UIButton = {
+//        let button = UIButton(type: .system)
+//        button.setTitle("Color Rectangle", for: .normal)
+//        button.translatesAutoresizingMaskIntoConstraints = false
+//        return button
+//    }()
+    
     private let infoCard: UIView = {
         let card = UIView()
         card.backgroundColor = UIColor(named: "brownColor")
@@ -29,8 +32,6 @@ class RecipeViewController: UIViewController {
         return card
     }()
 
-    
-    
     private let infoLabel: UILabel = {
         let label = UILabel()
         label.text = "Infos"
@@ -42,21 +43,57 @@ class RecipeViewController: UIViewController {
 
     private let itemsStack: UIStackView = {
         let stack = UIStackView()
-        stack.axis = .vertical
-        stack.spacing = 12
+           stack.axis = .vertical
+           stack.spacing = 12
+           return stack
+    }()
+    
+    private let preparationLabel: UILabel = {
+        let label = UILabel()
+        label.font = .systemFont(ofSize: 18)
+        label.textColor = UIColor(named: "brownColor")
+        label.numberOfLines = 0
+        return label
+    }()
+    
+    private func display(_ recipe: Recipe) {
+        titleLabel.text = recipe.receita
+        titleLabel.numberOfLines = 0
 
-        for _ in 0..<5 {
-            let label = UILabel()
-            label.text = "•"
-            label.font = .systemFont(ofSize: 38)
-            label.textColor = UIColor(named: "brownColor")
+        preparationLabel.text = recipe.modoPreparo
 
-            stack.addArrangedSubview(label)
+        for view in itemsStack.arrangedSubviews {
+            itemsStack.removeArrangedSubview(view)
+            view.removeFromSuperview()
         }
 
-        return stack
-    }()
+        let label = UILabel()
+        label.text = recipe.ingredientes
+        label.font = .systemFont(ofSize: 18)
+        label.textColor = UIColor(named: "brownColor")
+        label.numberOfLines = 0
 
+        itemsStack.addArrangedSubview(label)
+    }
+
+    private func loadRecipe() {
+        do {
+            let recipes = try RecipeLoader.load()
+
+            guard let recipe = recipes.randomElement() else {
+                titleLabel.text = "Nenhuma receita disponível"
+                
+                return
+            }
+
+            display(recipe)
+        } catch {
+            titleLabel.text = "Não foi possível carregar as receitas"
+            infoCard.isHidden = true
+            print("Erro ao carregar JSON:", error)
+        }
+    }
+    
     private let ingredientsSection = UIStackView()
     private let contentStack = UIStackView()
 
@@ -77,12 +114,13 @@ class RecipeViewController: UIViewController {
         
         setupViews()
         setupConstraints()
+        loadRecipe()
     }
 
     private func setupViews() {
+        
         view.addSubview(scrollView)
         scrollView.addSubview(contentStack)
-
         infoCard.addSubview(infoLabel)
 
         ingredientsSection.axis = .vertical
@@ -102,7 +140,8 @@ class RecipeViewController: UIViewController {
             titleLabel,
             infoCard,
             ingredientsSection,
-            makeSectionHeader("Modo de Preparo")
+            makeSectionHeader("Modo de Preparo"),
+            preparationLabel
         ].forEach {
             contentStack.addArrangedSubview($0)
         }
@@ -115,26 +154,20 @@ class RecipeViewController: UIViewController {
 
         NSLayoutConstraint.activate([
             scrollView.topAnchor.constraint(
-                equalTo: safeArea.topAnchor
-            ),
+                equalTo: safeArea.topAnchor),
             scrollView.bottomAnchor.constraint(
-                equalTo: safeArea.bottomAnchor
-            ),
+                equalTo: safeArea.bottomAnchor),
             scrollView.leadingAnchor.constraint(
-                equalTo: safeArea.leadingAnchor
-            ),
+                equalTo: safeArea.leadingAnchor),
             scrollView.trailingAnchor.constraint(
-                equalTo: safeArea.trailingAnchor
-            ),
+                equalTo: safeArea.trailingAnchor),
 
             contentStack.topAnchor.constraint(
                 equalTo: contentGuide.topAnchor,
-                constant: 24
-            ),
+                constant: 24),
             contentStack.bottomAnchor.constraint(
                 equalTo: contentGuide.bottomAnchor,
-                constant: -24
-            ),
+                constant: -24),
             contentStack.leadingAnchor.constraint(
                 equalTo: contentGuide.leadingAnchor,
                 constant: 24
