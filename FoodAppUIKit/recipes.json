@@ -1,308 +1,2974 @@
 {
-    "receitas": [{
-            "receita": "Barrinhas de cereal",
-            "ingredientes": "1 xícara de nozes, 1 xícara de frutas secas, 1 xícara de tâmaras secas sem caroço",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Nozes",
-                "2": "Frutas secas",
-                "3": "Tamaras"
-            },
-            "modoPreparo": "Bata todos os ingredientes em um processador por cerca de dois minutos, até que formem uma massa. Embrulhe a mistura em um papel filme e leve à geladeira por algumas horas até sentir que a massa está dura. Corte em formato de barras e conserve na geladeira.",
-            "link_imagem": "http://data.whicdn.com/images/25686711/large.jpg"
-        },
-
+  "receitas": [
+    {
+      "name": "Batata Rústica",
+      "time": 60,
+      "level": "Fácil",
+      "category": "entrada",
+      "portions": "6",
+      "steps": [
         {
-            "receita": "Mousse de limão",
-            "ingredientes": "1 lata de leite condensado, 1 lata de creme de leite, 1/2 xícara de limão espremido",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Leite condensado",
-                "2": "Creme de leite",
-                "3": "Limao"
-            },
-            "modoPreparo": "Coloque o creme de leite e o leite condensado no liquidificador, bata um pouco e acrescente o suco de limão aos poucos. Quando a massa ficar consistente, coloque em um recipiente de vidro e leva à geladeira.",
-            "link_imagem": "http://data.whicdn.com/images/78859362/large.jpg"
+          "order": 1,
+          "instruction": "Lave a casca das batatas sob água corrente e seque bem, quanto mais secas estiverem, mais douradas e crocantes ficam.",
+          "process": ""
         },
-
         {
-            "receita": "Sorvete caseiro",
-            "ingredientes": "1 lata de leite condensado, 1 lata de creme de leite, 1 pacote de gelatina do seu sabor preferido",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Leite condensado",
-                "2": "Creme de leite",
-                "3": "Gelatina"
-            },
-            "modoPreparo": "Prepare a gelatina normalmente (sem levar à geladeira) e enquanto ela ainda estiver quente bata no liquidificador junto com o creme de leite e o leite condensado. Coloque para congelar em um refratário com tampa, bata na batedeira (enquanto estiver congelado) e leve ao freezer novamente.",
-            "link_imagem": "http://www.receitasanamaria.net/wp-content/uploads/2013/11/Receita-Sorvete-de-Gelatina.jpg"
+          "order": 2,
+          "instruction": "Corte cada batata ao meio, no sentido do comprimento e cada metade em 5 gomos.",
+          "process": ""
         },
-
         {
-            "receita": "Pão de queijo",
-            "ingredientes": "1 caixa de creme de leite, 1 copo de queijo parmesão ralado, 1 copo de polvilho doce",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Creme de leite",
-                "2": "Queijo parmesao",
-                "3": "Polvilho doce"
-            },
-            "modoPreparo": "Pré aqueça o forno enquanto amassa todos os ingredientes até eles formarem uma massa (que não grude nas mãos), faça bolinhas e coloque para assar em uma forma untada.",
-            "link_imagem":"http://data.whicdn.com/images/70651372/large.jpg"
+          "order": 3,
+          "instruction": "Preaqueça a Air Fryer a 200 ºC e programe para assar por 30 minutos.",
+          "process": ""
         },
-
         {
-            "receita": "Bolo para café da tarde",
-            "ingredientes": "3 ovos, 2/3 de xícara de farinha com fermento, 1/2 xícara de açúcar refinado",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Ovos",
-                "2": "Farinha",
-                "3": "Fermento"
-            },
-            "modoPreparo": "Pré aqueça o forno a 190ºC. Em uma tigela, bata os ovos e o açúcar até que formem um creme, depois misture a farinha. Coloque a massa em uma forma untada e asse.",
-            "link_imagem":"http://re.i.uol.com.br/album/bolos_f_030.jpg"
+          "order": 4,
+          "instruction": "Enquanto isso, numa tigela, misture as batatas fatiadas com sal e 1 ½ colher (sopa) de azeite. Mexa para envolver todos os gomos.",
+          "process": ""
         },
-
         {
-            "receita": "Massa de pizza",
-            "ingredientes": "1 xícara de farinha pronta com fermento, 1 xícara de iogurte Grego ou natural",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Farinha",
-                "2": "Iogurte",
-                "3": "Fermento"
-            },
-            "modoPreparo": "Em uma tigela, misture a farinha e o iogurte; misture a massa até formar uma bola. Coloque a massa em uma superfície enfarinhada e deixe sovar por 5-8 minutos. Com um rolo de macarrão, deixe a massa em formato de pizza e depois adicione as coberturas. Pré-aqueça o forno. Coloque a pizza no forno em temperatura máxima por 12 minutos.",
-            "link_imagem": "https://i.ytimg.com/vi/YsDOmKuuhCU/maxresdefault.jpg"
+          "order": 5,
+          "instruction": "Coloque as batatas dentro do cesto e encaixe-o de volta na Air Fryer.",
+          "process": ""
         },
-
         {
-            "receita": "Biscoito de banana com aveia",
-            "ingredientes": "2 bananas bem maduras, 1 xícara de aveia",
-            "ingredientesBase": {
-                "0": "2",
-                "1": "Banana",
-                "2": "Aveia"
-            },
-            "modoPreparo": "Amasse as bananas e acrescente a aveia, misturando bem. Depois, faça bolinhas no formato de pequenos biscoitos e coloque para assar em uma forma untada por 15 minutos em forno pré-aquecido a 175 graus. Se você quiser, também pode adicionar uma pitada de canela em pó, um punhadinho de frutos secos — como nozes e amêndoas, por exemplo — ou gotinhas de chocolate para incrementar as bolachas.",
-            "link_imagem":"http://2.bp.blogspot.com/-z76HK5d0XFg/Uc9-1u90OvI/AAAAAAAAGJA/bbNYTJIpUQc/s1600/DSCF5995.JPG"
+          "order": 6,
+          "instruction": "Enquanto as batatas assam, espalhe um pouco de azeite nas ervas e nos dentes de alho, assim eles não queimam ao assar.",
+          "process": ""
         },
-
         {
-            "receita": "Pão de queijo (sem fermento)",
-            "ingredientes": "1 caixinha de creme de leite (200 ml), 1 copo (requeijão) de queijo ralado (misturei parmesão e mussarela ralada), 1 copo (requeijão) de polvilho (usei polvilho doce)",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Creme de leite",
-                "2": "Queijo ralado",
-                "3": "Polvilho"
-            },
-            "modoPreparo": "Amasse até soltar das mãos (caso precise um pouquinho a mais de polvilho, coloque aos poucos até que chegue ao ponto de enrolar). Faça bolinhas, coloque em forma untada e asse em forno pré-aquecido bem quente. Se achar necessário, acrescente sal. Asse até ficarem douradinhos levemente.",
-            "link_imagem":"http://ccook3.vila.to/receita/pao-de-queijo-de-liquidificador-f8-5282.jpg"
+          "order": 7,
+          "instruction": "Na metade do tempo, abra o cesto da Air Fryer, mexa as batatas e adicione as ervas e os dentes de alho.",
+          "process": ""
         },
-
         {
-            "receita": "Massa com queijo",
-            "ingredientes": "100 g de massinha, 400 ml de leite, 80 g de queijo",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Massa",
-                "2": "Leite",
-                "3": "Queijo"
-            },
-            "modoPreparo": "Cozinhar a massa e durante este tempo preparamos o molho: esquentamos o leite, acrescentamos o queijo já ralado (emmental, cheddar ou parmesão), deixamos o queijo derreter e paramos a fervura. Escorremos a massa e colocamos o molho por cima. Envolvemos a massinha com o molho e servimos.",
-            "link_imagem":"http://www.jornaldaorla.com.br/arquivos/noticia/2014_5_6_15_47_56_2082.jpg"
+          "order": 8,
+          "instruction": "Faltando 5 minutos para o tempo total, abra o cesto novamente e mexa as batatas para que fiquem douradas e crocantes por igual.",
+          "process": ""
         },
-
         {
-            "receita": "Frango Caramelizado",
-            "ingredientes": "200 ml de Coca-Cola, 50ml de molho de soja, 10 coxas de frango",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Coca cola",
-                "2": "Molho de soja",
-                "3": "Frango"
-            },
-            "modoPreparo": "Escolher uma Coca-Cola normal e não light ou diet. Coloque a Coca e o molho de soja numa panela e as coxas de frango. Deixe cozinhar lentamente, por tempo suficiente para que a carne do frango comece a soltar do osso, umas 4 a 5 horas. Retire as coxas e deixe o molho reduzir até ter uma textura de cobertura, uma calda. Derrame sobre as coxas e sirva com arroz branco.",
-            "link_imagem":"http://visaoregional.com.br/wp-content/uploads/2016/01/frango-caramelizado.jpg"
+          "order": 9,
+          "instruction": "Passado o tempo de cozimento total, com uma pinça, transfira as batatas assadas, as ervas e os dentes de alho para uma travessa.",
+          "process": ""
         },
-
         {
-            "receita": "Rosas do deserto",
-            "ingredientes": "100 g de chocolate, 60g de corn-flakes, 20g de manteiga",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Chocolate",
-                "2": "Corn-flakes",
-                "3": "Manteiga"
-            },
-            "modoPreparo": "Derreta o chocolate e a manteiga no micro-ondas ou no banho-maria. Uma vez derretidos, derrame esta mistura nos corn-flakes e envolva-os delicadamente com o chocolate. Faça a seguir pequenos montinhos com a ajuda de uma colher e coloque suas rosas do deserto sobre uma folha de papel manteiga ou em forminhas de papel. Deixe esfriar e endurecer na geladeira por mais ou menos uma hora, antes de se deliciar com elas…",
-            "link_imagem":"http://2.bp.blogspot.com/-bpPL2Itopgw/UX8K9Ix4FzI/AAAAAAAAAwU/yjKEzLbDzwQ/s1600/IMG_2120.JPG"
-        },
-
-        {
-            "receita": "Bolo de caneca",
-            "ingredientes": "1 ovo, 1 colher (de sopa) de cacau em pó, 50 g de açúcar",
-            "ingredientesBase": {
-                "0": "2",
-                "1": "Ovo",
-                "2": "Cacau em po"
-            },
-            "modoPreparo": "O bolo de caneca, é o bolo o mais rápido e simples do mundo! Um bolo com uma simples caneca como vasilha e alguns minutos de cozimento no micro-ondas… Misture o ovo e o açúcar na caneca, acrescente o cacau em pó e leve para assar no micro-ondas por 60 segundos, no máximo. Tire sua caneca do forno, espere alguns minutos e saboreie!",
-            "link_imagem": "http://s.glbimg.com/po/rc/media/2015/04/20/11_58_24_10_bolo_caneca1.jpg"
-        },
-
-        {
-            "receita": "Mingau de Aveia",
-            "ingredientes": "50 g de flocos de aveia, 300 ml de leite, 8 g de açúcar baunilhado",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Flocos de aveia",
-                "2": "Leite",
-                "3": "Acucar baunilhado"
-            },
-            "modoPreparo": "Aquecer o leite, o açúcar e os flocos de aveia numa panela. Deixar cozinhar em fogo baixo, mexendo sempre. Sirva em tigelinha e, se quiser, pode colocar uma pitada de canela em pó, frutas cristalizadas ou outro complemento. Você tem um porridge caseiro (mingau de aveia), para comer no café da manhã ou um lanchinho entre as refeições…",
-            "link_imagem":"http://www.musculacao.net/wp-content/uploads/2014/10/Mingau-de-aveia-com-queijo-fresco.jpg"
-        },
-
-        {
-            "receita": "Brigadeiro de Colher",
-            "ingredientes": "1 lata de leite condensado, 1 colher (sopa) manteiga e 2 colheres (sopa) chocolate em pó",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Leite condensado",
-                "2": "Manteiga",
-                "3": "Chocolate em po"
-            },
-            "modoPreparo": "Misture o leite condensado, a manteiga, o creme de leite e o chocolate em pó em uma panela. Leve a panela ao fogo. Mexa bem até levantar um pouco de fervura e abaixe o fogo. Misture o chocolate meio amargo derretido no microondas. Espere esfriar, decore com confeitos coloridos ou chocolate granulado e está pronto.",
-            "link_imagem":"http://receitasde.blog.br/wp-content/uploads/2015/05/brigadeiro-de-colher.jpg"
-        },
-
-        {
-            "receita": "Frozen iogurte de morango",
-            "ingredientes": "4 potes de iogurte natural desnatado 1, 1/2 xícaras de chá de morangos congelados, 6 envelopes de adoçante",
-            "ingredientesBase": {
-                "0": "2",
-                "1": "Iogurte",
-                "2": "Morango"
-            },
-            "modoPreparo": "Deixe o iogurte dessorar por 1 hora colocando os 4 potes de iogurte em um filtro de papel para café Despeje em uma vasilha e leve ao freezer para congelar Junte o iogurte com o morango no liquidificador (ambos congelados) Bata até misturar, junte o adoçante e misture Coloque em um refratário, cubra com papel filme bem junto ao refratário e leve ao freezer até servir",
-            "link_imagem": "http://data.whicdn.com/images/25686711/large.jpg",
-            "link_imagem":"http://photos1.blogger.com/blogger/5780/1852/1600/DSCF0347.jpg"
-        },
-
-        {
-            "receita": "Baked potato (requeijao e parmesao)",
-            "ingredientes": "1 batata grande, requeijão, parmesão",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Batata",
-                "2": "Requeijao",
-                "3": "Parmesao"
-            },
-            "modoPreparo": "Lave bem a batata com casca e faça alguns furos com um garfo em toda a superfície. Coloque sobre um prato ou recipiente de vidro e leve ao microondas por 8 minutos. Vire e cozinhe por mais 8 minutos. Espete um palito de dente dos dois lados e se ainda não estiver macia, adicione alguns minutos. Retire e enrole em papel alumínio para não esfriar. Faça um corte em uma das laterais e pressione com cuidado as duas pontas para que ela se abra. Agora é hora de rechear com o requeijão e o parmesão.",
-            "link_imagem":"http://www.saga.co.uk/magazine/media/saga/publishing/verticals/food/cooking-tips/potatoes/diana-henrys-perfect-baked-potato-tips-192776024-1280.jpg"
-        },
-
-        {
-            "receita": "Ovos em nuvens",
-            "ingredientes": "2 ovos, 1/4 copo de queijo minas meia cura ralado (mas pode trocar para parmesão, mas diminua um pouco a quantidade), 1/4 copo de salame picado(mas pode trocar para bacon já frito até ficar crocante)",
-            "ingredientesBase": {
-                "0": "4",
-                "1": "Ovo",
-                "2": "Queijo",
-                "3": "Salame",
-                "4": "Bacon"
-            },
-            "modoPreparo": "Ligue o forno em 230 graus. Separa as claras das gemas, mas guarda as gemas intactas. Eu guardei na própria casca. Bate as claras até ficar neve bem firme. Pique salami e cebola e rala o queijo e misture levemente com as claras em neve, junto com uma pitadinha de sal. Faz dois nuvens da mistura em cima de uma forma para forno e faz um buraquinho no meio de cada. Leva ao forno por mais ou menos 4 minutos. Tira e adicione as gemas nos buraquinhos. Espalhe um pouquinho de pimenta do reino e sal em cima. Retorna para o forno por mais 3 minutos, ou até as gemas se estabilizem, mas sem ficarem duros. Pronto!",
-            "link_imagem":"http://1.bp.blogspot.com/-6npMz3pTa4M/T3ISyNopJKI/AAAAAAAABBM/oZ4CC6C1oQ8/s1600/ovos+2.JPG"
-        },
-
-        {
-            "receita": "Smoothie",
-            "ingredientes": "abacate, amora, leite de coco",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Abacate",
-                "2": "Amora",
-                "3": "Leite de coco"
-            },
-            "modoPreparo": "Coloque suas frutas congeladas de preferência no liquidificador. Adiciona um pouco de liquido e bate. Começa com pouco a adicione mais se for necessário. Para não precisar adicionar muito liquido e perder a textura de sorvete, para de bater frequentemente e mistura com uma colher de pao para ajudar antes de voltar bater de novo. Experimenta e adicione adoçante se achar necessário. Serve já já! Se sobrar você pode colocar a mistura em moldes para picolé e guardar para um outro dia com calor",
-            "link_imagem":"http://www.dicasdemulher.com.br/wp-content/uploads/2014/05/10-smoothies-mais-saudaveis-de-todos-os-tempos.jpg"
-        },
-
-        {
-            "receita": "Omelete de claras com peito de peru",
-            "ingredientes": "4 claras de ovos, meia xicará (chá) de  peito de peru ralado grosso, 1 colher(sopa) margarina",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Ovo",
-                "2": "Peito de Peru",
-                "3": "Margarina"
-            },
-            "modoPreparo": "Coloque as claras em uma tigela e bata ligeiramente com um batedor de arame ou garfo. Aqueça a margarina em uma frigideira antiaderente (com cerca de 21 cm de diâmetro) e despeje o peito de peru. Deixe secar um pouco e, de vez em quando, movimente a frigideira enquanto a omelete adquire consistência. Com o auxílio de uma espátula, dobre a omelete ao meio e sirva em seguida.",
-            "link_imagem":"http://origin.qualysadia.com.br/sites/default/files/imagecache/img_dicas/geral/img/_15min_0012_omelete_claras_peito_peru_2.jpg"
-        },
-
-        {
-            "receita": "Sorvete de Banana",
-            "ingredientes": "1 ou mais banana",
-            "ingredientesBase": {
-                "0": "1",
-                "1": "Banana"
-            },
-            "modoPreparo": "Descasque as bananas e pique-as em rodelas. Depois coloque-as num prato e leve-as ao ao refrigerador por um tempo de pelo menos 2 horas. Depois coloque as bananas num processador de alimentos. Ligue a máquina e processe a banana até que ela tenha a consistência de um creme suave, que nem sorvete mole. Isso vais demorar um tempinho, e no começo vai parecer que não funciona, mas deixe que a máquina faça seu trabalho e logo você terá um delicioso sorvete de banana. Uma vez que seu sorvete de um único ingrediente estiver pronto, leve-o ao refrigerador até que fique bem firme depois poderá comer à vontade.",
-            "link_imagem":"http://www.camomilanutricao.com.br/wp-content/uploads/2011/08/sorvete-de-banana3.jpg"
-        },
-
-        {
-            "receita": "Torta de nutella",
-            "ingredientes": "4 ovos, 240 g de nutella",
-            "ingredientesBase": {
-                "0": "2",
-                "1": "Ovo",
-                "2": "Nutella"
-            },
-            "modoPreparo": "Bata os ovos inteiros por cerca de 6 minutos até que eles tripliquem de tamanho. Depois, coloque a Nutella em um recipiente de vidro e leve ao micro-ondas por aproximadamente 20 segundos para deixar a consistência mais fluida. Então, acrescente ⅓ da nutella aos ovos batidos misturando bem, e vá fazendo o mesmo com as duas outras partes até que todo o chocolate seja incorporado. Despeje a mistura em uma forma redonda forrada com papel manteiga untado, e coloque para assar em forno pré-aquecido a 175 graus por 20 ou 25 minutos (ou verifique com um palito se a torta já está assada). Só desenforme depois de completamente fria.",
-            "link_imagem":"http://s2.glbimg.com/z_YI9zZlGz-danN4Orluslk8zKQ=/smart/e.glbimg.com/og/ed/f/original/2014/03/18/nutella_2.jpg"
-        },
-
-        {
-            "receita": "Chocolate quente",
-            "ingredientes": "240 ml de leite, 2 colheres de sopa de Nutella",
-            "ingredientesBase": {
-                "0": "2",
-                "1": "Leite",
-                "2": "Nutella"
-            },
-            "modoPreparo": "Coloque 1/4 do leite em uma panela e adicione as 2 colheres de Nutella (se você quiser, pode acrescentar mais!) e leve ao fogo médio-baixo. Incorpore o chocolate até que ele forme uma mistura homogênea e, então, adicione o restante do leite aos poucos, mexendo sem parar. Quando estiver bem quente, retire do fogo, coloque em uma xícara e veja se você consegue encontrar marshmallows, canela ou quem sabe chantilly para incrementar. ",
-            "link_imagem":"http://emmafiorezi.com.br/blog/wp-content/uploads/2015/06/chocolate.jpg"
-        },
-
-        {
-            "receita": "Macaroon cookies",
-            "ingredientes": "500 g de coco ralado, 1 lata de leite condensado",
-            "ingredientesBase": {
-                "0": "2",
-                "1": "Coco ralado",
-                "2": "Leite condesado"
-            },
-            "modoPreparo": "Basta misturar o coco ralado com o leite condensado e colocar bolinhas com a ajuda de uma colher em uma forma forrada com papel manteiga. Depois, leve para assar em um forno pré-aquecido a 180 graus por 10 ou 12 minutos ou até que as bolinhas fiquem levemente douradas.",
-            "link_imagem":"https://wineandplum.files.wordpress.com/2013/04/img_1121.jpg"
-        },
-
-        {
-            "receita": "Muffins",
-            "ingredientes": "4 ovos inteiros, 1 xícara de brócolis, meia xícara de queijo ralado",
-            "ingredientesBase": {
-                "0": "3",
-                "1": "Ovo",
-                "2": "Brocolis",
-                "3": "Queijo"
-            },
-            "modoPreparo": "Pré-aqueça o forno a 190°. Em uma vasilha misture 4 ovos inteiros, 1 xícara de brócolis (só as flores picadas) e 1/2 xícara de queijo cheddar ralado ou outro queijo de sua preferência. Leve ao forno de 12 a 15 minutos, até que o ovo esteja assado.",
-            "link_imagem":"http://www.vilamulher.com.br/imagens/default/2014/01/14/muffins-de-brocolis-com-cheddar-6-75-1467.jpg"
+          "order": 10,
+          "instruction": "Sirva a seguir.",
+          "process": ""
         }
-    ]
+      ],
+      "ingredients": [
+        {
+          "name": "batata baraka",
+          "quantity": "500",
+          "unit": "g de"
+        },
+        {
+          "name": "alecrins",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "tomilho",
+          "quantity": "3",
+          "unit": "ramos de"
+        },
+        {
+          "name": "sálvia",
+          "quantity": "10",
+          "unit": "folhas de"
+        },
+        {
+          "name": "alho com casca",
+          "quantity": "6",
+          "unit": "dentes de"
+        },
+        {
+          "name": "azeite",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "sal",
+          "quantity": "",
+          "unit": "A gosto:"
+        }
+      ]
+    },
+    {
+      "name": "Rolinho de Abobrinha",
+      "time": 60,
+      "level": "Médio",
+      "category": "entrada",
+      "portions": "10",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Use uma escovinha para legumes para lavar a casca da abobrinha sob água corrente e seque bem.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Corte as pontas e passe a abobrinha pelo cortador de legumes, ou no mandolin, no sentido do comprimento, para fazer fatias longas e finas.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Lave, seque e pique o manjericão.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Numa tigela, misture a ricota com 2 colheres de sopa de azeite, as nozes e o manjericão, amassando bem com um garfo.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Tempere com o sal, noz-moscada e pimenta a gosto.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Para fazer os rolinhos: coloque uma fatia de abobrinha na tábua e, numa das pontas, acrescente cerca de 1 colher de chá de ricota temperada.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Enrole a abobrinha sobre o recheio, formando um rolinho.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Transfira para uma travessa e repita com o restante, no total você vai ter cerca de 20 rolinhos.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Num prato fundo, misture a farinha de rosca com o queijo parmesão.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Para empanar: pincele o rolinho com azeite e transfira para o prato com a farinha de rosca.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Pressione delicadamente para cobrir toda a superfície. Coloque o rolinho empanado de volta na travessa e repita o procedimento com o restante.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Empane primeiro a metade e, enquanto eles assam, você aproveita para empanar os outros.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Sirva em seguida.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "abobrinha",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "ricota esfarelada",
+          "quantity": "1",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "Nozes tostadas e picadas",
+          "quantity": "1/4",
+          "unit": "de xícara de chá"
+        },
+        {
+          "name": "azeite",
+          "quantity": "",
+          "unit": "a gosto:"
+        },
+        {
+          "name": "manjericão",
+          "quantity": "4",
+          "unit": "ramos de"
+        },
+        {
+          "name": "sal",
+          "quantity": "1/2",
+          "unit": "colher de chá de"
+        },
+        {
+          "name": "noz moscada ralada",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "pimenta-do-Reino moída",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "farinha de rosca grossa",
+          "quantity": "1/2",
+          "unit": "xícara de chá de:"
+        },
+        {
+          "name": "queijo parmesão ralado",
+          "quantity": "1/4",
+          "unit": "xícara de chá de"
+        }
+      ]
+    },
+    {
+      "name": "Espiral de Batata",
+      "time": 60,
+      "level": "Médio",
+      "category": "entrada",
+      "portions": "3",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Separe 3 espetos de bambu pequenos (de cerca de 16 cm) para churrasco.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Com uma escovinha própria para legumes, lave bem a casca das batatas sob água corrente.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Seque cada uma com um pano de prato — quanto mais sequinhas estiverem, mais crocantes ficam depois de assadas.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Com cuidado, espete um palito em cada batata, perfurando completamente a raiz no sentido do comprimento.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Deixe a batata centralizada no palito — segure firme com uma das mãos e, com a outra, espete e gire o palito.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Com uma faca pequena, corte as batatas em espiral: apoie a batata na tábua, corte e gire a batata ao mesmo tempo.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Deixe cerca de 0,5 cm entre cada corte — a faca deve chegar até o palito para não cortar a batata até o fim.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Com as mãos, afaste as fatias delicadamente para abrir a batata ao longo do palito, no formato de um espiral.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Numa tigela pequena, misture bem o queijo parmesão com o azeite, a páprica e o sal.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Com as mãos, espalhe bem a mistura de queijo por toda a superfície das batatas e entre as fatias.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Preaqueça a Air Fryer 180 ºC e programe para assar por 30 minutos. Acomode as batatas no cesto, deixando uma ao lado da outra.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Quando faltarem 5 minutos para o tempo, abra a gaveta e verifique se as batatas estão bem douradas.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Com uma pinça, transfira as batatas douradas para um prato e polvilhe com as raspas de limão. Sirva a seguir.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "batatas pequenas",
+          "quantity": "3",
+          "unit": "unidades de"
+        },
+        {
+          "name": "queijo parmesão ralado",
+          "quantity": "3",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "azeite",
+          "quantity": "3",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "páprica doce",
+          "quantity": "1",
+          "unit": "colher de chá de"
+        },
+        {
+          "name": "sal",
+          "quantity": "1/2",
+          "unit": "colher de chá de"
+        },
+        {
+          "name": "limão",
+          "quantity": "",
+          "unit": "Raspas de"
+        }
+      ]
+    },
+    {
+      "name": "Pão Italiano",
+      "time": 120,
+      "level": "Difícil",
+      "category": "entrada",
+      "portions": "2",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Numa tigela grande, misture a farinha com o sal e o fermento.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Acrescente a água aos poucos, misturando com uma espátula para incorporar. Deixe repousar em temperatura ambiente por 10 minutos.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Após os 10 minutos de repouso, com a espátula, vire e dobre a massa sobre ela mesma, até que esteja numa consistência mais fácil para manusear.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Transfira a massa para a bancada e sove por cerca de 15 minutos, dobre, amasse, estique e amasse novamente até ficar bem lisa, macia e úmida.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Unte uma tigela grande com azeite. Modele a massa de pão numa bola e transfira para a tigela untada.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Cubra com um pano de prato (ou filme) e deixe em temperatura ambiente para crescer por cerca de 1 hora ou até dobrar de volume.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Assim que a massa tiver crescido, polvilhe um pouco de farinha de trigo sobre a bancada e sove novamente a massa por mais 5 minutos.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Modele novamente uma bola, cubra com o pano de prato e deixe a massa descansar por mais 10 minutos.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Enquanto isso, separe uma assadeira grande e polvilhe com farinha de trigo.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Sobre a bancada, corte a massa ao meio com uma espátula (ou faca) e modele dois pães redondos.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Transfira os pães para a assadeira com a emenda da massa para baixo, cubra com o pano de prato e deixe descansar por mais 30 minutos.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Enquanto isso, preaqueça o forno a 220 °C (temperatura alta), para que o forno atinja a temperatura certa no momento em que o pão estiver crescido.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Após os 30 minutos, com a ponta de uma faca afiada, faça 3 cortes paralelos na superfície de cada pão. Borrife com água e leve ao forno.",
+          "process": ""
+        },
+        {
+          "order": 14,
+          "instruction": "Deixe assar por cerca de 30 minutos até ficarem com a casca bem dourada.",
+          "process": ""
+        },
+        {
+          "order": 15,
+          "instruction": "Assim que estiverem assados, retire a assadeira do forno e, com cuidado, transfira os pães para uma grelha. Deixe esfriar antes de cortar.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "farinha de trigo",
+          "quantity": "3 e 1/2",
+          "unit": "xícaras de chá de"
+        },
+        {
+          "name": "água",
+          "quantity": "1 e 1/3",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "fermento biológico",
+          "quantity": "1",
+          "unit": "colher de sopa de"
+        },
+        {
+          "name": "sal",
+          "quantity": "2",
+          "unit": "colheres de chá de"
+        },
+        {
+          "name": "azeite",
+          "quantity": "",
+          "unit": "Para untar:"
+        },
+        {
+          "name": "água",
+          "quantity": "",
+          "unit": "Para borrifar:"
+        },
+        {
+          "name": "farinha de trigo",
+          "quantity": "",
+          "unit": "Para polvilhar:"
+        }
+      ]
+    },
+    {
+      "name": "Bolinho de Mandioca",
+      "time": 60,
+      "level": "Médio",
+      "category": "entrada",
+      "portions": "42",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Na panela de pressão, coloque a mandioca, cubra com água e adicione 1 colher de chá de sal. Tampe e deixe cozinhar na pressão por 15 minutos.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Após o tempo de cozimento, ajuste a válvula para liberar a pressão antes de abrir a tampa.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Escorra bem a água da mandioca e transfira para uma tigela grande.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Descarte a fibra central dos pedaços, tempere com 1 colher de chá de sal e pimenta- do-reino a gosto.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Com o amassador de legumes, amasse bem a mandioca ainda quente até formar um purê. Junte o queijo ralado e misture bem.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Forre com filme uma assadeira grande. Coloque a massa de mandioca na assadeira e nivele com a espátula para deixar bem lisinha e reta.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Leve à geladeira por cerca de 3 horas. Se preferir, prepare no dia anterior.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Desenforme a massa sobre uma tábua e corte em cubos de cerca de 3 cm.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Preaqueça a Air Fryer a 200 ºC e programe para assar por 45 minutos, os bolinhos vão assar em levas de 15 minutos.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Pincele óleo no cesto da Air Fryer e nos bolinhos. Se preferir, use um borrifador de azeite.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Coloque quantos bolinhos couberem, um ao lado do outro e deixe assar por cerca de 15 minutos, ou até ficarem dourados e crocantes.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Transfira para um prato e repita o mesmo processo com a próxima leva.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Sirva a seguir.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "mandioca descascada",
+          "quantity": "500",
+          "unit": "g de"
+        },
+        {
+          "name": "queijo parmesão ralado",
+          "quantity": "1",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "sal",
+          "quantity": "2",
+          "unit": "colheres de chá de"
+        },
+        {
+          "name": "pimenta-do-Reino moída",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "azeite",
+          "quantity": "",
+          "unit": "A gosto:"
+        }
+      ]
+    },
+    {
+      "name": "Sopa de Abóbora",
+      "time": 60,
+      "level": "Difícil",
+      "category": "entrada",
+      "portions": "4",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preaqueça o forno a 220 ºC.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Com uma colher, retire as sementes da abóbora. Descasque e corte a abóbora em cubos médios, com tamanho uniforme para assar por igual.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Descasque e corte a cenoura em rodelas grossas.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Corte as cebolas ao meio e cada metade em 3 gomos, passando a faca pela raiz, e descasque, assim as camadas permanecem unidas ao assar.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Lave, seque e corte o talo de salsão em pedaços. Com a lateral da lâmina da faca, amasse os dentes de alho e mantenha a casca.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Numa assadeira grande, coloque os legumes cortados: de um lado a abóbora e do outro lado a cenoura, o salsão e a cebola.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Distribua os ramos de sálvia e os dentes de alho entre os legumes e regue tudo com 2 colheres de sopa de azeite.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Tempere com 1 colher de chá de sal e pimenta a gosto. Misture bem com as mãos para envolver todos os pedaços com o azeite.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Leve ao forno para assar por cerca de 30 minutos, ou até que os legumes estejam macios e levemente dourados.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Enquanto isso, leve uma chaleira com um pouco mais de 5 xícaras de chá de água ao fogo médio para aquecer.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Retire a assadeira do forno, reserve os dentes de alho e os ramos de sálvia, eles serão usados para o molho e a finalização.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Transfira metade dos legumes assados para o liquidificador, junte 2 e ½ xícaras de chá de água e bata até obter um creme liso.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Transfira a sopa batida para uma tigela e repita o processo com a outra metade dos legumes.",
+          "process": ""
+        },
+        {
+          "order": 14,
+          "instruction": "Adicione o conhaque à sopa quente e tempere com a canela e noz-moscada. Prove e ajuste o sal.",
+          "process": ""
+        },
+        {
+          "order": 15,
+          "instruction": "Para o molho, descasque os dentes de alho assados e coloque num prato.",
+          "process": ""
+        },
+        {
+          "order": 16,
+          "instruction": "Tempere com ½ colher de chá de sal e amasse com um garfo até formar uma pastinha.",
+          "process": ""
+        },
+        {
+          "order": 17,
+          "instruction": "Transfira para uma tigela e misture 6 colheres de sopa de azeite, as raspas e o caldo de limão-siciliano e a pimenta calabresa.",
+          "process": ""
+        },
+        {
+          "order": 18,
+          "instruction": "Sirva a sopa de abóbora com as folhas de sálvia assadas e o molho de alho.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "abóbora japonesa",
+          "quantity": "800",
+          "unit": "g de"
+        },
+        {
+          "name": "cenoura",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "salsão",
+          "quantity": "1",
+          "unit": "talo de"
+        },
+        {
+          "name": "cebola",
+          "quantity": "2",
+          "unit": "unidades de"
+        },
+        {
+          "name": "alho",
+          "quantity": "2",
+          "unit": "dentes de"
+        },
+        {
+          "name": "limáo-Siciliano",
+          "quantity": "Raspas de um",
+          "unit": ""
+        },
+        {
+          "name": "caldo de limão-siciliano",
+          "quantity": "3",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "água quente",
+          "quantity": "5",
+          "unit": "xícaras de chá de"
+        },
+        {
+          "name": "conhaque",
+          "quantity": "1",
+          "unit": "colher de sopa de"
+        },
+        {
+          "name": "azeite",
+          "quantity": "8",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "sálvia",
+          "quantity": "5",
+          "unit": "ramos de"
+        },
+        {
+          "name": "canela",
+          "quantity": "1/4",
+          "unit": "colher de chá de"
+        },
+        {
+          "name": "pimenta calabresa",
+          "quantity": "1",
+          "unit": "colher de chá de"
+        },
+        {
+          "name": "noz moscada",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "sal e pimenta-do-reino",
+          "quantity": "",
+          "unit": "A gosto:"
+        }
+      ]
+    },
+    {
+      "name": "Frango à Passarino",
+      "time": 60,
+      "level": "Fácil",
+      "category": "pratoPrincipal",
+      "portions": "4",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Pré-aqueça o forno a 220 ºC e retire o frango da geladeira, ele não pode estar gelado na hora de assar.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "No pilão, bata o alho, o sal, a páprica e o cominho até formar uma pastinha. Por último, misture o azeite à pastinha.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Numa tigela grande, tempere o frango com a pasta de alho e especiarias. Espalhe bem o tempero com as mãos, para envolver todos os pedaços.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Polvilhe com a farinha e misture novamente. A farinha ajuda a formar a casquinha crocante do frango, sem ressecar a carne.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Unte uma assadeira grande com azeite e distribua os pedaços de frango, sem amontoar, quanto mais espaçado estiver, mais crocante fica.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Leve ao forno para assar por cerca de 20 minutos. Depois, vire o frango e deixe-o assar por mais 20 minutos, até o frango ficar dourado.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Enquanto isso, lave, seque e pique a salsinha.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Retire a assadeira do forno e, com a pinça, transfira os pedaços de frango para uma tigela.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Misture a salsinha e sirva a seguir com gomos de limão.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "frango cortado",
+          "quantity": "1",
+          "unit": "Kg de"
+        },
+        {
+          "name": "alho",
+          "quantity": "2",
+          "unit": "dentes de"
+        },
+        {
+          "name": "páprica doce",
+          "quantity": "1 e 1/2",
+          "unit": "colher de chá de"
+        },
+        {
+          "name": "cominho",
+          "quantity": "1",
+          "unit": "colher de chá de"
+        },
+        {
+          "name": "sal",
+          "quantity": "1",
+          "unit": "colher de chá de"
+        },
+        {
+          "name": "azeite",
+          "quantity": "3",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "farinha de Trigo",
+          "quantity": "1/4",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "salsinha",
+          "quantity": "8",
+          "unit": "ramos de"
+        },
+        {
+          "name": "gomos de limão",
+          "quantity": "",
+          "unit": "Para servir:"
+        }
+      ]
+    },
+    {
+      "name": "Bife à Parmegiana",
+      "time": 60,
+      "level": "Médio",
+      "category": "pratoPrincipal",
+      "portions": "2",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preaqueça o forno a 220 ºC (temperatura alta).",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Coloque o molho numa tigela, o purê de batatas e leve para rodar no micro-ondas por 1 minuto apenas para aquecer.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Num prato fundo, quebre o ovo e bata com um garfo.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Separe dois pratos rasos, coloque a farinha de trigo em um e a farinha de rosca no outro. Forre uma travessa com papel toalha.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Numa frigideira com borda alta, coloque o óleo e leve ao fogo médio para aquecer.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Para saber a temperatura do óleo, mergulhe um palito de fósforo no óleo ainda frio, quando acender é sinal que está na temperatura certa para fritura.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Enquanto o óleo aquece, empane os bifes.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Tempere com sal e pimenta a gosto, passe os bifes primeiro pela farinha de trigo e bata com as mãos para retirar o excesso.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Em seguida passe pelo ovo batido e deixe escorrer bem, por último, passe pela farinha de rosca e pressione com a mão para cobrir bem o bife.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Com cuidado, coloque um bife de cada vez no óleo quente e deixe cerca de 40 segundos até dourar um dos lados.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Com a escumadeira, vire o bife para dourar o outro lado. Transfira para a travessa forrada com papel-toalha e frite o outro bife.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Num refratário individual, coloque metade do purê de batatas, 1 colherada de molho de tomate e disponha um bife no centro.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Cubra com duas fatias de queijo muçarela e regue com mais um pouco do molho.",
+          "process": ""
+        },
+        {
+          "order": 14,
+          "instruction": "Polvilhe com queijo parmesão ralado e repita com o outro bife (se preferir, monte os dois filés num só refratário, um ao lado do outro).",
+          "process": ""
+        },
+        {
+          "order": 15,
+          "instruction": "Leve ao forno para gratinar por cerca de 20 minutos e sirva a seguir.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "filé mignon",
+          "quantity": "2",
+          "unit": "bifes de"
+        },
+        {
+          "name": "molho de tomate",
+          "quantity": "2/3",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "purê de batata",
+          "quantity": "1/2",
+          "unit": "de xícara de chá de"
+        },
+        {
+          "name": "muçarela",
+          "quantity": "4",
+          "unit": "fatias de"
+        },
+        {
+          "name": "farinha de trigo",
+          "quantity": "1/2",
+          "unit": "xícaras de chá de"
+        },
+        {
+          "name": "farinha de rosca",
+          "quantity": "1/2",
+          "unit": "xícaras de chá de"
+        },
+        {
+          "name": "ovo",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "óleo",
+          "quantity": "2 e 1/2",
+          "unit": "xícaras de chá de"
+        },
+        {
+          "name": "sal e pimenta-do-reino",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "queijo parmesão ralado",
+          "quantity": "",
+          "unit": "A gosto:"
+        }
+      ]
+    },
+    {
+      "name": "Frango Xadrez",
+      "time": 30,
+      "level": "Médio",
+      "category": "pratoPrincipal",
+      "portions": "6",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Corte os filés de frango em cubos de 2 cm e transfira para uma tigela.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Tempere com ½ colher (chá) de sal e pimenta a gosto. Mantenha em temperatura ambiente enquanto prepara os outros ingredientes.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Atenção: o frango não pode estar gelado na hora de ir para a frigideira.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Descasque e corte a cebola em cubos de 2 cm. Descasque e pique fino os dentes de alho.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Lave, seque e corte os pimentões ao meio no sentido do comprimento; descarte as sementes.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Corte as metades dos pimentões em quadrados de 2 cm.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "O restante dos pimentões pode ser guardado na geladeira por até 3 dias (ou no congelador) para outras receitas.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Numa tigela, misture o amido de milho com o shoyu e a água, até dissolver por completo.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Leve uma panela wok (ou frigideira grande) ao fogo alto para aquecer.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Regue com 1 colher (sopa) de óleo, adicione a cebola e os pimentões. Refogue por cerca de 2 minutos, até ficarem levemente macios.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Acrescente o frango e deixe cozinhar por cerca de 2 minutos, mexendo de vez em quando, até começar a dourar.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Junte o alho picado e o amendoim. Mexa por 1 minuto para perfumar.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Regue com a mistura de água, shoyu e amido e mexa por 2 minutos, até formar um molho mais espesso e brilhante.",
+          "process": ""
+        },
+        {
+          "order": 14,
+          "instruction": "Desligue o fogo, adicione o óleo de gergelim e sirva a seguir com amendoim torrado a gosto.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "filé de peito de frango",
+          "quantity": "400",
+          "unit": "g de"
+        },
+        {
+          "name": "cebola",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "pimentão amarelo",
+          "quantity": "1/2",
+          "unit": "unidade de"
+        },
+        {
+          "name": "pimentão vermelho",
+          "quantity": "1/2",
+          "unit": "unidade de"
+        },
+        {
+          "name": "alho",
+          "quantity": "2",
+          "unit": "dentes de"
+        },
+        {
+          "name": "shoyu",
+          "quantity": "1/4",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "óleo",
+          "quantity": "1",
+          "unit": "colher de sopa de"
+        },
+        {
+          "name": "amido de milho",
+          "quantity": "2",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "água",
+          "quantity": "1",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "amendoim torrado",
+          "quantity": "1/3",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "óleo de gergelim torrado",
+          "quantity": "1",
+          "unit": "colher de chá de"
+        },
+        {
+          "name": "sal",
+          "quantity": "1/2",
+          "unit": "colher de chá de"
+        },
+        {
+          "name": "pimenta-do-reino",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "amendoim torrado",
+          "quantity": "Para servir",
+          "unit": "a gosto:"
+        }
+      ]
+    },
+    {
+      "name": "Macarrão à Carbonara",
+      "time": 30,
+      "level": "Médio",
+      "category": "pratoPrincipal",
+      "portions": "2",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Leve uma panela média com cerca de 3 litros de água ao fogo alto.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Quando ferver, adicione 1 e ½ colher de sopa de sal, junte o macarrão e deixe cozinhar pelo tempo indicado na embalagem, ou até ficar ao dente.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Enquanto o macarrão cozinha, separe os outros ingredientes.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Numa tigela pequena, adicione os dois ovos inteiros e depois as duas gemas. Junte o queijo parmesão e misture bem com um garfo.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Leve uma frigideira grande ao fogo médio para aquecer. Adicione o bacon e deixe dourar por cerca de 5 minutos, mexendo de vez em quando.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Abaixe o fogo, regue com o vinho branco, com cuidado para não espirrar, misture bem e desligue.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Assim que o macarrão estiver cozido, reserve 1 xícara de chá da água do cozimento.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Agora, de forma rápida, escorra o macarrão e transfira-o para a frigideira com o bacon quente.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Depois, junte os ovos e misture bem, a ideia é que o calor da massa forme um creme e não cozinhe os ovos.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Se necessário, volte a frigideira ao fogo baixo e vá adicionando aos poucos a água do cozimento reservada.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Vá mexendo até formar um molho espesso. Cuidado para não cozinhar os ovos!",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Sirva a seguir com pimenta-do-reino e queijo parmesão ralado, a gosto.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "macarrão espaguete",
+          "quantity": "200",
+          "unit": "g de"
+        },
+        {
+          "name": "bacon em cubos",
+          "quantity": "1/2",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "vinho branco",
+          "quantity": "1/4",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "ovos",
+          "quantity": "2",
+          "unit": "unidades de"
+        },
+        {
+          "name": "gemas",
+          "quantity": "2",
+          "unit": "unidades de"
+        },
+        {
+          "name": "queijo parmesão ralado",
+          "quantity": "1/2",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "sal",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "pimenta-do-reino",
+          "quantity": "",
+          "unit": "A gosto:"
+        }
+      ]
+    },
+    {
+      "name": "Massa de Beterraba",
+      "time": 120,
+      "level": "Difícil",
+      "category": "pratoPrincipal",
+      "portions": "2",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preaqueça o forno a 200 °C (temperatura média) e depois descasque e corte a beterraba ao meio.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Em um pedaço grande de papel-alumínio, coloque a beterraba no centro, regue com um fio de azeite, una as pontas e dobre-o formando uma trouxinha.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Leve ao forno para assar por cerca de 30 minutos, ou até a beterraba ficar macia.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Abra o papelote com cuidado para não se queimar com o vapor e deixe a beterraba esfriar por 5 minutos enquanto separa os demais ingredientes.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "No liquidificador (ou mixer), coloque a beterraba assada e o ovo e bata até triturar bem e formar um purê.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Numa tigela, coloque a farinha e abra um buraco no centro, como se fosse um “vulcão”.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Adicione a beterraba batida com ovo no centro e comece misturando com um garfo, do centro para fora.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Amasse com a mão até incorporar toda a farinha e formar uma bola.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Transfira a massa para a bancada levemente enfarinhada e sove até a massa ficar bem lisa, adicionando mais farinha, se necessário.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Embale a massa em filme e deixe descansar por 20 minutos, assim ela fica menos elástica na hora de abrir.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Polvilhe farinha de trigo na bancada de trabalho e divida a massa em duas porções iguais, para ficar mais fácil de abrir.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Com o rolo de macarrão, abra uma porção de massa até ela ficar bem fina, e vá polvilhando farinha de trigo durante o processo para não grudar.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Corte e modele no formato de massa que preferir, caso queira, use uma máquina de abrir macarrão.",
+          "process": ""
+        },
+        {
+          "order": 14,
+          "instruction": "Repita o mesmo processo com a outra porção de massa.",
+          "process": ""
+        },
+        {
+          "order": 15,
+          "instruction": "Leve uma panela grande com água ao fogo alto e, quando ferver, adicione 2 colheres de sopa de sal.",
+          "process": ""
+        },
+        {
+          "order": 16,
+          "instruction": "Acrescente a massa e misture delicadamente para soltar. Deixe cozinhar por cerca de 2 minutos, ou até ficar al dente.",
+          "process": ""
+        },
+        {
+          "order": 17,
+          "instruction": "Escorra e sirva a seguir com o molho de sua preferência.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "beterraba",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "farinha de trigo",
+          "quantity": "1 e 1/3",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "ovo",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "azeite",
+          "quantity": "",
+          "unit": "A gosto (um fio):"
+        },
+        {
+          "name": "farinha de trigo",
+          "quantity": "para polvilhar",
+          "unit": "A gosto:"
+        }
+      ]
+    },
+    {
+      "name": "Bife Rolê",
+      "time": 120,
+      "level": "Difícil",
+      "category": "pratoPrincipal",
+      "portions": "4",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Separe palitos de dente para fechar as bracciolas e retire os bifes da geladeira e deixe em temperatura ambiente, enquanto prepara os outros ingredientes.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Descarte as folhas, lave e seque o talo do salsão, descasque a cenoura e corte os legumes em palitos finos de 6 cm de comprimento.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Descasque e pique fino a cebola e os dentes de alho. Corte as fatias de bacon ao meio.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Para montar: corte os bifes ao meio, no sentido da largura. Tempere os dois lados com sal e pimenta e cubra com um pedaço de bacon.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Depois, em uma das pontas, coloque 2 palitos de cada legume, enrole o bife e prenda, espetando com dois palitos de dente.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Com a carne em temperatura ambiente, leve a panela de pressão, sem a tampa, ao fogo médio.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Quando aquecer, regue com 1 colher (sopa) de azeite e doure os bifes rolês em etapas, por 3 minutos de cada lado.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Transfira para uma travessa e repita com o restante, regando com azeite a cada leva.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Mantenha a panela em fogo médio e regue com ½ colher (sopa) de azeite.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Junte a cebola picada, tempere com sal e refogue por 3 minutos até começar a dourar.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Acrescente o alho, o louro, a canela, a pimenta-síria e mexa por 1 minuto para perfumar.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Adicione o extrato de tomate e mexa bem. Regue com a água e raspe o fundo da panela para dissolver os queimadinhos, que darão sabor ao molho.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Tempere com sal e, assim que ferver, volte as bracciolas para panela, tampe e aumente o fogo para alto.",
+          "process": ""
+        },
+        {
+          "order": 14,
+          "instruction": "Quando começar a apitar, abaixe o fogo e deixe cozinhar por mais 30 minutos.",
+          "process": ""
+        },
+        {
+          "order": 15,
+          "instruction": "Enquanto isso coloque a manteiga numa frigideira pequena e leve ao fogo médio.",
+          "process": ""
+        },
+        {
+          "order": 16,
+          "instruction": "Assim que derreter, acrescente a farinha de trigo e mexa por 2 minutos, essa mistura de manteiga e farinha, chamada roux, vai engrossar o molho.",
+          "process": ""
+        },
+        {
+          "order": 17,
+          "instruction": "Desligue o fogo e reserve.",
+          "process": ""
+        },
+        {
+          "order": 18,
+          "instruction": "Passado o tempo de cozimento, desligue o fogo. Deixe o vapor sair e a válvula parar de apitar antes de abrir a panela de pressão.",
+          "process": ""
+        },
+        {
+          "order": 19,
+          "instruction": "Com uma concha, transfira 1 xícara (chá) do caldo do cozimento para a frigideira com o roux e misture bem para dissolver os gruminhos de farinha.",
+          "process": ""
+        },
+        {
+          "order": 20,
+          "instruction": "Volte a mistura para a panela com as bracciolas e deixe cozinhar em fogo médio por mais 15 minutos, até o molho engrossar.",
+          "process": ""
+        },
+        {
+          "order": 21,
+          "instruction": "Desligue o fogo e misture a salsinha picada e sirva a seguir.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "coxão mole cortado em bifes",
+          "quantity": "600",
+          "unit": "g de"
+        },
+        {
+          "name": "bacon",
+          "quantity": "6",
+          "unit": "fatias de"
+        },
+        {
+          "name": "cenoura pequena",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "salsão",
+          "quantity": "1",
+          "unit": "talo de"
+        },
+        {
+          "name": "cebola",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "alho",
+          "quantity": "3",
+          "unit": "dentes de"
+        },
+        {
+          "name": "extrato de tomate",
+          "quantity": "1/4",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "água (ou caldo de carne)",
+          "quantity": "1",
+          "unit": "litro de"
+        },
+        {
+          "name": "canela em rama",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "pimenta síria",
+          "quantity": "1",
+          "unit": "colher de chá de"
+        },
+        {
+          "name": "folhas de louro",
+          "quantity": "2",
+          "unit": "unidades de"
+        },
+        {
+          "name": "manteiga",
+          "quantity": "1 e 1/2",
+          "unit": "colher de sopa de"
+        },
+        {
+          "name": "farinha de trigo",
+          "quantity": "1 e 1/2",
+          "unit": "colher de sopa de"
+        },
+        {
+          "name": "azeite",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "salsinha picada",
+          "quantity": "",
+          "unit": "A gosto:"
+        }
+      ]
+    },
+    {
+      "name": "Arroz com Verduras",
+      "time": 10,
+      "level": "Fácil",
+      "category": "guarnicao",
+      "portions": "2",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Lave, seque e corte a parte verde e branca da cebolinha em fatias finas, na diagonal.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Depois, lave, descasque e passe a cenoura pela parte grossa do ralador.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Leve uma frigideira média antiaderente ao fogo médio.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Quando aquecer, regue com 1 colher (sopa) de azeite, adicione a cenoura e tempere com uma pitada de sal.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Refogue a cenoura por 3 minutos, até murchar.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Junte a cebolinha e deixe fritar por 1 minuto.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Acrescente o arroz e deixe fritar por 5 minutos, mexendo de vez em quando.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Transfira para uma tigela e sirva a seguir com mais cebolinha fatiada.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "arroz branco cozido",
+          "quantity": "1 e 1/2",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "cenoura pequena",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "cebolinha",
+          "quantity": "4",
+          "unit": "talos de"
+        },
+        {
+          "name": "azeite",
+          "quantity": "1",
+          "unit": "colher de sopa de"
+        },
+        {
+          "name": "sal",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "cebolinha fatiada",
+          "quantity": "para servir",
+          "unit": "A gosto:"
+        }
+      ]
+    },
+    {
+      "name": "Acelga Gratinada",
+      "time": 60,
+      "level": "Médio",
+      "category": "guarnicao",
+      "portions": "4",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preaqueça o forno a 200 °C (temperatura média). Separe um refratário oval de 20 cm x 30 cm (ou que comporte 1,5 litro).",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Leve uma panela grande com água ao fogo alto e separe uma tigela com água e gelo. Solte as folhas de acelga e lave sob água corrente.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Para branquear a acelga: assim que a água ferver, adicione 2 colheres (chá) de sal e mergulhe as folhas de acelga em etapas.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Deixe cozinhar por apenas 2 minutos. Com uma pinça, transfira as folhas para a tigela com água e gelo para interromper o cozimento.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "O choque térmico garante que as folhas fiquem macias, mas sem perder a textura.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Coloque as folhas de acelga branqueadas num escorredor e esprema bem com as mãos para tirar o excesso de água.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Na tábua, empilhe 3 folhas de cada vez e corte em fatias de 5 cm.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Se estiverem muito grandes, corte as folhas ao meio, no sentido do comprimento, e depois em fatias. Reserve.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Bata as sementes no pilão para quebrar — assim elas liberam mais sabor e aroma durante o preparo; não precisam virar pó.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Na jarra medidora, misture o leite com o amido de milho até dissolver completamente.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Leve uma panela média com a manteiga ao fogo médio. Assim que derreter, adicione a mostarda e mexa por 1 minuto para perfumar.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Retire a panela do fogo e adicione todo o leite com o amido de uma só vez. Volte ao fogo médio e mexa com o batedor de arame.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Continue mexendo por cerca de 5 minutos, até engrossar. Tempere com noz-moscada, sal e pimenta-do-reino a gosto.",
+          "process": ""
+        },
+        {
+          "order": 14,
+          "instruction": "Desligue o fogo, misture 3 colheres (sopa) de queijo parmesão e acrescente a acelga fatiada.",
+          "process": ""
+        },
+        {
+          "order": 15,
+          "instruction": "Transfira para o refratário e polvilhe com o restante do queijo parmesão.",
+          "process": ""
+        },
+        {
+          "order": 16,
+          "instruction": "Leve ao forno para assar por cerca de 30 minutos, ou até gratinar. Sirva a seguir.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "acelga",
+          "quantity": "1/2",
+          "unit": "maço de"
+        },
+        {
+          "name": "leite",
+          "quantity": "1",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "manteiga",
+          "quantity": "25",
+          "unit": "g de"
+        },
+        {
+          "name": "mostarda em grãos",
+          "quantity": "2",
+          "unit": "colheres de chá de"
+        },
+        {
+          "name": "amido de milho",
+          "quantity": "1",
+          "unit": "colher de sopa de"
+        },
+        {
+          "name": "queijo parmesão ralado",
+          "quantity": "6",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "noz-moscada ralada",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "sal e pimenta-do-reino moída",
+          "quantity": "",
+          "unit": "A gosto:"
+        }
+      ]
+    },
+    {
+      "name": "Berinjela Assada",
+      "time": 60,
+      "level": "Médio",
+      "category": "guarnicao",
+      "portions": "4",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preaqueça o forno a 220 °C.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Forre uma peneira com um pano de prato limpo (ou 2 filtros de café descartáveis cortados ao meio) e coloque sobre uma tigela.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Disponha o iogurte na peneira forrada e leve para a geladeira. Deixe drenar por cerca de 40 minutos na geladeira.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Enquanto isso, prepare os outros ingredientes.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Lave e seque as berinjelas e as pimentas.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Corte as berinjelas ao meio, no sentido do comprimento, e transfira para uma assadeira grande, de preferência antiaderente.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Corte as pimentas ao meio e, com a ponta da faca, raspe e descarte as sementes. Transfira as metades para a assadeira.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Regue as pimentas e as berinjelas com o azeite e tempere com sal e pimenta-do-reino a gosto.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Misture bem e disponha as metades de berinjela e pimenta com a casca para cima, uma ao lado da outra, deixando espaço entre cada uma.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Leve ao forno para assar por cerca de 30 minutos até dourar, na metade do tempo vire os legumes, para dourar por igual.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Lave, seque e pique fino as folhas de hortelã. Transfira para uma tigela e misture bem com o iogurte drenado.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Na hora de servir, coloque em cada prato uma metade de berinjela, uma metade de pimenta e uma colher generosa do iogurte temperado.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Regue com um fio de azeite e tempere com mais pimenta-do-reino a gosto.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "berinjela",
+          "quantity": "2",
+          "unit": "unidades de"
+        },
+        {
+          "name": "pimenta dedo-de-moça",
+          "quantity": "2",
+          "unit": "unidades de"
+        },
+        {
+          "name": "azeite",
+          "quantity": "2",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "iogurte natural sem açúcar",
+          "quantity": "2",
+          "unit": "potes (170g cada) de"
+        },
+        {
+          "name": "folhas de hortelã",
+          "quantity": "10",
+          "unit": "unidades de"
+        },
+        {
+          "name": "sal e pimenta-do-reino moída",
+          "quantity": "",
+          "unit": "A gosto:"
+        }
+      ]
+    },
+    {
+      "name": "Suflê de Cenoura",
+      "time": 60,
+      "level": "Médio",
+      "category": "guarnicao",
+      "portions": "2",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preaqueça o forno a 200 ºC.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Unte com manteiga 2 ramequins pequenos. Polvilhe com farinha de rosca, chacoalhe e bata na pia para tirar o excesso.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Leve os ramequins à geladeira, capriche na preparação dos recipientes para formar paredes ásperas para a massa escalar.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Pique as tiras de cenoura assadas em pedacinhos bem pequenos. Leve uma chaleira com água ao fogo para ferver para o banho maria.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Leve uma panela pequena com a manteiga e o tomilho debulhado ao fogo baixo.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Quando a manteiga derreter, junte a farinha e mexa bem por 1 minuto, até ficar levemente dourada.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Adicione o leite de uma só vez e mexa bem com um batedor de arame para dissolver os gruminhos de farinha.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Tempere com sal e noz-moscada e mexa até engrossar, por cerca de 3 minutos.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Desligue o fogo, adicione a cenoura picada e tempere com a páprica defumada. Transfira o creme para uma tigela e deixe amornar.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Enquanto isso, quebre o ovo separando a clara da gema.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Junte a gema ao creme de cenoura, acrescente 3 colheres de sopa de queijo parmesão ralado e misture bem.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Numa tigela grande, coloque as claras e, com um batedor de arame, bata até o ponto de neve com picos moles.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Junte ⅓ da clara em neve ao creme de cenoura e mexa bem com a espátula para incorporar.",
+          "process": ""
+        },
+        {
+          "order": 14,
+          "instruction": "Adicione o restante das claras e misture delicadamente, com movimentos de baixo para cima, para não perder todo o ar incorporado.",
+          "process": ""
+        },
+        {
+          "order": 15,
+          "instruction": "Com uma concha, preencha cada ramequim até deixar cerca de 1 cm da borda livre.",
+          "process": ""
+        },
+        {
+          "order": 16,
+          "instruction": "Transfira os ramequins para uma assadeira. Leve ao forno preaquecido e regue a assadeira com a água fervente até metade da altura dos ramequins.",
+          "process": ""
+        },
+        {
+          "order": 17,
+          "instruction": "Deixe assar por cerca de 25 minutos, até os suflês crescerem e dourarem. Não abra o forno até o suflê dourar.",
+          "process": ""
+        },
+        {
+          "order": 18,
+          "instruction": "Retire os suflês do forno com cuidado para não se queimar com a água fervente.",
+          "process": ""
+        },
+        {
+          "order": 19,
+          "instruction": "Assim que murcharem, com cuidado, passe uma faquinha na borda dos ramequins para soltar cada suflê.",
+          "process": ""
+        },
+        {
+          "order": 20,
+          "instruction": "Cubra um por um com um prato e vire de uma só vez para desenformar.",
+          "process": ""
+        },
+        {
+          "order": 21,
+          "instruction": "Sirva imediatamente com saladinha.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "tiras de cenoura",
+          "quantity": "6",
+          "unit": "tiras de"
+        },
+        {
+          "name": "ovo",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "clara de ovo",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "manteiga",
+          "quantity": "2",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "farinha de trigo",
+          "quantity": "2",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "leite",
+          "quantity": "2/3",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "queijo parmesão ralado",
+          "quantity": "3 1/2",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "tomilho",
+          "quantity": "1",
+          "unit": "ramo de"
+        },
+        {
+          "name": "sal",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "páprica defumada",
+          "quantity": "1",
+          "unit": "pitada de"
+        },
+        {
+          "name": "noz-moscada ralada",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "manteiga",
+          "quantity": "para untar",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "farinha de rosca",
+          "quantity": "para polvilhar",
+          "unit": "A gosto:"
+        }
+      ]
+    },
+    {
+      "name": "Cozido Norueguês de Legumes",
+      "time": 120,
+      "level": "Difícil",
+      "category": "guarnicao",
+      "portions": "6",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Com uma escovinha para legumes, lave bem a casca das batatas sob água corrente. Corte cada uma ao meio no sentido do comprimento.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Descasque e corte a cenoura ao meio, no sentido do comprimento. Corte as metades em fatias de 1 cm, na diagonal.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Descasque e corte a cebola em meias-luas finas de 0,5 cm. Descasque e pique fino os dentes de alho.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Coloque as sementes de mostarda no pilão e bata apenas para quebrar levemente.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Numa panela grande, coloque a manteiga e leve ao fogo médio.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Acrescente a cebola, tempere com uma pitada de sal e refogue até dourar, por cerca de 9 minutos.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Acrescente o alho, o tomilho, o louro, as especiarias, o açúcar e refogue por mais 1 minuto.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Junte as batatas e as cenouras cortadas, tempere com 2 colheres de chá de sal e misture bem para incorporar os sabores do refogado.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Adicione a cerveja e misture raspando o fundo da panela para dissolver os queimadinhos da cebola.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Deixe a cerveja cozinhar em fogo médio por cerca de 7 minutos, até o volume reduzir pela metade.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Regue com a água, abaixe o fogo e deixe cozinhar com a tampa entreaberta por cerca de 1 hora, ou até que as batatas e cenouras estejam macias.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Enquanto isso, lave, seque e pique grosseiramente a salsinha.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Numa tigela pequena, misture o amido de milho com 2 colheres de sopa de água e acrescente ao cozido.",
+          "process": ""
+        },
+        {
+          "order": 14,
+          "instruction": "Mexa por cerca de 2 minutos para o caldo engrossar levemente.",
+          "process": ""
+        },
+        {
+          "order": 15,
+          "instruction": "Desligue o fogo, misture a salsinha picada e sirva a seguir.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "batata-bolinha",
+          "quantity": "600",
+          "unit": "g de"
+        },
+        {
+          "name": "cenoura",
+          "quantity": "3",
+          "unit": "unidades de"
+        },
+        {
+          "name": "cebola",
+          "quantity": "2",
+          "unit": "unidades de"
+        },
+        {
+          "name": "alho",
+          "quantity": "2",
+          "unit": "dentes de"
+        },
+        {
+          "name": "cerveja preta",
+          "quantity": "350",
+          "unit": "ml de"
+        },
+        {
+          "name": "açúcar mascavo",
+          "quantity": "1",
+          "unit": "colher de sopa de"
+        },
+        {
+          "name": "água",
+          "quantity": "3",
+          "unit": "xícaras de chá de"
+        },
+        {
+          "name": "manteiga",
+          "quantity": "2",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "canela",
+          "quantity": "1",
+          "unit": "ramo de"
+        },
+        {
+          "name": "sementes de mostarda",
+          "quantity": "2",
+          "unit": "colheres de chá de"
+        },
+        {
+          "name": "sal",
+          "quantity": "2",
+          "unit": "colheres de chá de"
+        },
+        {
+          "name": "tomilho",
+          "quantity": "4",
+          "unit": "ramos de"
+        },
+        {
+          "name": "folha de louro",
+          "quantity": "1",
+          "unit": "folha de"
+        },
+        {
+          "name": "salsinha",
+          "quantity": "8",
+          "unit": "ramos de"
+        },
+        {
+          "name": "amido de milho",
+          "quantity": "1",
+          "unit": "colher de sopa de"
+        }
+      ]
+    },
+    {
+      "name": "Brócolis Assado",
+      "time": 60,
+      "level": "Difícil",
+      "category": "guarnicao",
+      "portions": "6",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preaqueça o forno a 200 ºC.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Descarte a base grossa dos talos do brócolis. Corte os ramos em tamanhos médios, de cerca de 8 cm de comprimento.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Corte também os talos mais finos e as folhas em pedaços de cerca de 8 cm.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Coloque o brócolis cortado numa tigela, cubra com água e mexa bem com as mãos para lava.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Transfira os pedaços para uma centrífuga de saladas e seque bem.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Numa assadeira grande e funda, coloque os pedaços de brócolis, regue com o azeite e tempere com pimenta a gosto.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Misture bem com as mãos para envolver todos os pedaços. Atenção: não adicione sal, pois o molho de missô já é salgado.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Leve ao forno para assar por cerca de 30 minutos.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Na metade do tempo, ou assim que os pedaços da superfície começarem a ficar tostadinhos, dê uma misturada com uma pinça para assar por igual.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Enquanto isso prepare o molho de missô.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Numa tigela, com uma espátula de silicone, misture bem a manteiga com o missô até formar uma pasta.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Junte o vinagre e misture novamente para incorporar.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Transfira a pasta de manteiga e missô para uma panela pequena e leve ao fogo baixo.",
+          "process": ""
+        },
+        {
+          "order": 14,
+          "instruction": "Mexa com a espátula por cerca de 2 minutos até a pasta começar a ficar mais fluida e brilhante, deixando a pasta na textura de brigadeiro mole.",
+          "process": ""
+        },
+        {
+          "order": 15,
+          "instruction": "Vá adicionando a água aos poucos, mexendo a cada adição para incorporar até formar um molho mais fluido.",
+          "process": ""
+        },
+        {
+          "order": 16,
+          "instruction": "Reserve.",
+          "process": ""
+        },
+        {
+          "order": 17,
+          "instruction": "Retire o brócolis do forno e sirva a seguir com o molho de missô e as sementes de girassol tostadas.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "brócolis",
+          "quantity": "1",
+          "unit": "maço de"
+        },
+        {
+          "name": "azeite",
+          "quantity": "3",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "missô",
+          "quantity": "1/2",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "manteiga em ponto pomada",
+          "quantity": "50",
+          "unit": "g de"
+        },
+        {
+          "name": "vinagre de vinho tinto",
+          "quantity": "1",
+          "unit": "colher de sopa de"
+        },
+        {
+          "name": "água filtrada",
+          "quantity": "4",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "pimenta-do-reino moída",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "sementes de girassol tostadas",
+          "quantity": "1/3",
+          "unit": "xícara de chá de"
+        }
+      ]
+    },
+    {
+      "name": "Bolo de Laranja",
+      "time": 120,
+      "level": "Médio",
+      "category": "sobremesa",
+      "portions": "12",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preaqueça o forno a 180 °C (temperatura média). Com um pedaço de papel toalha, unte com manteiga uma fôrma com furo no meio de 24 cm de diâmetro.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Polvilhe com farinha e chacoalhe bem para espalhar. Bata sobre a pia para retirar o excesso.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Descasque uma das laranjas, eliminando toda a parte branca.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Lave bem a outra sob água corrente e corte e descarte as pontas, mantendo a casca.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Corte as laranjas em quatro gomos. Descarte o miolo branco e os caroços, corte cada gomo em três pedaços e transfira para o liquidificador.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Numa tigela pequena quebre um ovo de cada vez e transfira para o liquidificador. Junte o óleo, o açúcar e bata bem até ficar liso.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Numa tigela média, misture a farinha com o fermento em pó.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Transfira a laranja batida com os líquidos para uma tigela grande e acrescente a farinha com o fermento aos poucos, passando pela peneira.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Misture delicadamente com o batedor de arame a cada adição para incorporar.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Transfira a massa do bolo para a fôrma e leve ao forno para assar por cerca de 50 minutos.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Para verificar se o bolo está pronto: espete um palito na massa, se sair limpo pode retirar do forno, se não, deixe assar mais um pouco.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Retire o bolo do forno e deixe esfriar por 30 minutos antes de desenformar.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Cubra a fôrma com um prato e vire de uma só vez para desenformar.",
+          "process": ""
+        },
+        {
+          "order": 14,
+          "instruction": "Quando o bolo estiver completamente frio, cubra com a cobertura de sua preferência.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "laranja pêra",
+          "quantity": "2",
+          "unit": "unidades de"
+        },
+        {
+          "name": "ovo",
+          "quantity": "2",
+          "unit": "unidades de"
+        },
+        {
+          "name": "óleo",
+          "quantity": "1",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "açúcar",
+          "quantity": "1 e 1/2",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "farinha de trigo",
+          "quantity": "2",
+          "unit": "xícaras de chá de"
+        },
+        {
+          "name": "fermento em pó",
+          "quantity": "2",
+          "unit": "colheres de chá de"
+        },
+        {
+          "name": "manteiga",
+          "quantity": "",
+          "unit": "Para untar:"
+        },
+        {
+          "name": "farinha de trigo",
+          "quantity": "",
+          "unit": "Para untar:"
+        }
+      ]
+    },
+    {
+      "name": "Crème Brûlée",
+      "time": 60,
+      "level": "Médio",
+      "category": "sobremesa",
+      "portions": "6",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Separe as claras das gemas. (As claras não serão utilizadas nesta receita, mas você pode guardá-las para preparar outra receita.)",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Coloque as gemas na tigela pequena da batedeira. Junte o açúcar e bata em velocidade alta até obter um creme bem claro.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Pare de bater e adicione o creme de leite, o leite e a essência de baunilha. Misture bem com uma colher.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Deixe a mistura descansar por 10 minutos. Enquanto isso, leve uma panela com água ao fogo alto. Ela será usada para o banho-maria.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Com uma colher, retire toda a espuma que se formou na superfície da mistura de gemas.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Distribua o creme entre seis tigelas refratárias que possam ir ao forno. (Será o pote que vai ser servido.)",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Arrume as tigelas numa assadeira retangular.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Leve a assadeira ao forno e, antes de fechar a porta, coloque água fervendo na assadeira, com cuidado, para assar em banho-maria.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Deixe assar por 40 minutos.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Retire a assadeira do forno e as tigelas do banho-maria. Deixe esfriar e leve à geladeira por no mínimo 6 horas.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "No momento de servir, polvilhe açúcar sobre toda a superfície do creme.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Coloque uma colher de sopa na chama do fogão para aquecer bem. (Use uma luva, ou pano de prato dobrado, para não se queimar!)",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Encoste as costas da colher quente na superfície do creme, fazendo movimentos circulares, para caramelizar o açúcar.",
+          "process": ""
+        },
+        {
+          "order": 14,
+          "instruction": "Caso precise, repita esta operação até caramelizar toda a superfície, mas não deixe queimar demais o açúcar.",
+          "process": ""
+        },
+        {
+          "order": 15,
+          "instruction": "Sirva com sorvete.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "gema",
+          "quantity": "5",
+          "unit": "unidades de"
+        },
+        {
+          "name": "creme de leite fresco",
+          "quantity": "350",
+          "unit": "ml de"
+        },
+        {
+          "name": "leite",
+          "quantity": "100",
+          "unit": "ml de"
+        },
+        {
+          "name": "açúcar",
+          "quantity": "1/3",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "extrato de baunilha",
+          "quantity": "1 e 1/2",
+          "unit": "colher de chá de"
+        },
+        {
+          "name": "açúcar",
+          "quantity": "",
+          "unit": "Para caramelizar:"
+        }
+      ]
+    },
+    {
+      "name": "Crumble de Uva com Maçã",
+      "time": 60,
+      "level": "Difícil",
+      "category": "sobremesa",
+      "portions": "6",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preaqueça o forno a 200°C.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Separe um refratário redondo e grande, que possa ir ao forno.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Lave, corte as uvas ao meio e transfira para o refratário.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Lave, seque e corte a maçã em fatias de 1 cm.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Descarte as sementes, corte as fatias em tiras e as tiras em cubos de 1 cm.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Junte a maçã cortada às uvas e misture com o caldo de limão. Reserve.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Numa tigela, misture a farinha de trigo, o açúcar, a aveia, as nozes e o sal.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Corte a manteiga em cubos pequenos e acrescente à tigela com os ingredientes secos.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Misture, amassando com as pontas dos dedos até formar uma farofa grossa.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Distribua a farofa sobre as frutas no refratário, sem compactar, cobrindo toda a superfície.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Leve ao forno para assar por cerca de 30 minutos até dourar e ficar crocante.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Retire do forno e sirva a seguir quente ou em temperatura ambiente.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Se quiser, sirva com sorvete de leite, creme batido, creme inglês ou iogurte cremoso.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "uva vitória debulhada",
+          "quantity": "500",
+          "unit": "gramas de"
+        },
+        {
+          "name": "maçã verde",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "caldo de limão",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "farinha de trigo",
+          "quantity": "1",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "açúcar demerara",
+          "quantity": "1/2",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "aveia em flocos",
+          "quantity": "1/2",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "nozes picadas",
+          "quantity": "1/2",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "manteiga gelada",
+          "quantity": "100",
+          "unit": "gramas de"
+        },
+        {
+          "name": "sal",
+          "quantity": "1",
+          "unit": "pitada de"
+        }
+      ]
+    },
+    {
+      "name": "Focaccia de Maçã",
+      "time": 120,
+      "level": "Difícil",
+      "category": "sobremesa",
+      "portions": "15",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Numa tigela grande, misture a farinha com o fermento e o sal.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Junte a água morna de uma só vez e misture bem com uma espátula de silicone, não é necessário sovar.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Após os 10 minutos de repouso, com a espátula, vire e dobre a massa sobre ela mesma, até que esteja numa consistência mais fácil para manusear.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Transfira a massa para a tigela com o azeite, raspando bem a vasilha com a espátula de silicone.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Vire a massa de baixo para cima, com a espátula, para que fique besuntada com o azeite, não precisa incorporar o azeite à massa.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Cubra a tigela com filme (ou tampa) para que a massa não resseque.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Leve à geladeira para fermentar por, no mínimo, 12 horas e no máximo, por 36 horas.",
+          "process": ""
+        },
+        {
+          "order": 8,
+          "instruction": "Passado o tempo de fermentação, transfira a massa para uma assadeira antiaderente de 30 cm × 20 cm untada.",
+          "process": ""
+        },
+        {
+          "order": 9,
+          "instruction": "Numa tigela pequena, misture o açúcar com a canela em pó.",
+          "process": ""
+        },
+        {
+          "order": 10,
+          "instruction": "Polvilhe a massa com 3 colheres de sopa da mistura de açúcar com canela e dobre a massa sobre ela mesma 2 vezes para misturar.",
+          "process": ""
+        },
+        {
+          "order": 11,
+          "instruction": "Com as mãos (ou com a espátula), espalhe a massa no fundo da assadeira.",
+          "process": ""
+        },
+        {
+          "order": 12,
+          "instruction": "Cubra com um pano e deixe a massa descansar por 50 minutos. Ela precisa estar em temperatura ambiente e aerada antes de entrar no forno.",
+          "process": ""
+        },
+        {
+          "order": 13,
+          "instruction": "Quando faltarem 30 minutos para o fim do descanso, preaqueça o forno a 220 °C.",
+          "process": ""
+        },
+        {
+          "order": 14,
+          "instruction": "Passado o tempo de descanso, lave, seque e corte a maçã ao meio no sentido do comprimento.",
+          "process": ""
+        },
+        {
+          "order": 15,
+          "instruction": "Descarte o miolo com as sementes e passe as metades pelo mandolim, ou com a faca, para fazer meias-luas finas.",
+          "process": ""
+        },
+        {
+          "order": 16,
+          "instruction": "Umedeça a ponta dos dedos com água e pressione a massa sem perfurar nem rasgar.",
+          "process": ""
+        },
+        {
+          "order": 17,
+          "instruction": "Distribua as fatias de maçã sobre a massa, pressionando levemente. Polvilhe o restante do açúcar com canela sobre a maçã.",
+          "process": ""
+        },
+        {
+          "order": 18,
+          "instruction": "Leve ao forno para assar por cerca de 15 minutos a 220 ºC, até que infle e comece a dourar nas bordas.",
+          "process": ""
+        },
+        {
+          "order": 19,
+          "instruction": "Abaixe a temperatura do forno para 200 ºC e deixe assar por mais 20 minutos, ou até dourar.",
+          "process": ""
+        },
+        {
+          "order": 20,
+          "instruction": "Retire a focaccia do forno e transfira para uma gradinha (ou coloque sobre a grade do fogão) para amornar antes de cortar e servir.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "farinha de trigo",
+          "quantity": "3 e 1/4",
+          "unit": "xícaras de chá de"
+        },
+        {
+          "name": "fermento biológico",
+          "quantity": "1/2",
+          "unit": "colher de chá de"
+        },
+        {
+          "name": "sal",
+          "quantity": "2",
+          "unit": "colheres de cha de"
+        },
+        {
+          "name": "água morna",
+          "quantity": "1 e 3/4",
+          "unit": "xícaras de chá de"
+        },
+        {
+          "name": "azeite",
+          "quantity": "2",
+          "unit": "colheres de sopa de"
+        },
+        {
+          "name": "maçã gala",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "açúcar demerara",
+          "quantity": "1/3",
+          "unit": "xícara de chá de"
+        },
+        {
+          "name": "canela em pó",
+          "quantity": "1",
+          "unit": "colher de chá de"
+        }
+      ]
+    },
+    {
+      "name": "Sorvete de Cookie",
+      "time": 120,
+      "level": "Fácil",
+      "category": "sobremesa",
+      "portions": "1",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Retire o sorvete do congelador e deixe em temperatura ambiente por cerca de 20 minutos, ou até começar a amolecer levemente.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Enquanto isso, pique os cookies com a faca em pedaços pequenos de cerca de 1 cm.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Coloque o sorvete amolecido numa tigela, junte os cookies picados e misture bem com uma espátula ou na batedeira.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Transfira o sorvete para um pote com tampa e volte ao congelador para firmar novamente por pelo menos 2 horas antes de servir.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "sorvete de Leite",
+          "quantity": "500",
+          "unit": "g de"
+        },
+        {
+          "name": "cookie picado",
+          "quantity": "1 e 1/2",
+          "unit": "xícara de chá de"
+        }
+      ]
+    },
+    {
+      "name": "Tartine de Maçã",
+      "time": 30,
+      "level": "Médio",
+      "category": "sobremesa",
+      "portions": "2",
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Lave, seque e corte a maçã ao meio, no sentido do comprimento. Corte cada metade em fatias e transfira para uma tigela de vidro.",
+          "process": ""
+        },
+        {
+          "order": 2,
+          "instruction": "Adicione à maçã o mel, a canela e a noz-moscada. Tampe com um prato e leve para rodar no micro-ondas por 3 minutos. Reserve.",
+          "process": ""
+        },
+        {
+          "order": 3,
+          "instruction": "Em uma frigideira, leve a manteiga para derreter em fogo médio. Polvilhe um lado das fatias de pão com açúcar.",
+          "process": ""
+        },
+        {
+          "order": 4,
+          "instruction": "Quando a manteiga derreter, coloque as fatias de pão na frigideira, com o lado do açúcar para baixo.",
+          "process": ""
+        },
+        {
+          "order": 5,
+          "instruction": "Doure por 2 minutos, pressionando levemente com uma espátula. Vire e doure por mais 1 minuto.",
+          "process": ""
+        },
+        {
+          "order": 6,
+          "instruction": "Transfira os pães para dois pratos. Distribua as fatias de maçã sobre os pães e regue com o caldinho que se formou na tigela.",
+          "process": ""
+        },
+        {
+          "order": 7,
+          "instruction": "Sirva a seguir com creme batido e mel a gosto.",
+          "process": ""
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "pão integral",
+          "quantity": "2",
+          "unit": "fatias de"
+        },
+        {
+          "name": "maçã fuji",
+          "quantity": "1",
+          "unit": "unidade de"
+        },
+        {
+          "name": "mel",
+          "quantity": "1 e 1/2",
+          "unit": "colher de chá de"
+        },
+        {
+          "name": "manteiga",
+          "quantity": "2",
+          "unit": "colheres de chá de"
+        },
+        {
+          "name": "noz-moscada ralada",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "açúcar",
+          "quantity": "",
+          "unit": "Para polvilhar no pão:"
+        },
+        {
+          "name": "creme batido",
+          "quantity": "",
+          "unit": "A gosto:"
+        },
+        {
+          "name": "Mel",
+          "quantity": "Para servir",
+          "unit": "a gosto:"
+        }
+      ]
+    }
+  ]
 }
+

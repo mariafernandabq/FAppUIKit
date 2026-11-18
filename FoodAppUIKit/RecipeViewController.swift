@@ -38,6 +38,10 @@ class RecipeViewController: UIViewController {
         label.textColor = .white
         label.font = .systemFont(ofSize: 32)
         label.translatesAutoresizingMaskIntoConstraints = false
+        
+        label.numberOfLines = 0
+        label.textAlignment = .center
+        label.font = .systemFont(ofSize: 18)
         return label
     }()
 
@@ -57,23 +61,36 @@ class RecipeViewController: UIViewController {
     }()
     
     private func display(_ recipe: Recipe) {
-        titleLabel.text = recipe.receita
+        titleLabel.text = recipe.name
         titleLabel.numberOfLines = 0
+        infoLabel.text = """
+        Tempo: \(recipe.time) min
+        Dificuldade: \(recipe.level)
+        Categoria: \(recipe.category)
+        Porções: \(recipe.portions)
+        """
 
-        preparationLabel.text = recipe.modoPreparo
+        preparationLabel.text = recipe.steps
+            .sorted { $0.order < $1.order }
+            .map { "\($0.order). \($0.instruction)" }
+            .joined(separator: "\n")
 
         for view in itemsStack.arrangedSubviews {
             itemsStack.removeArrangedSubview(view)
             view.removeFromSuperview()
         }
 
-        let label = UILabel()
-        label.text = recipe.ingredientes
-        label.font = .systemFont(ofSize: 18)
-        label.textColor = UIColor(named: "brownColor")
-        label.numberOfLines = 0
-
-        itemsStack.addArrangedSubview(label)
+        for ingredient in recipe.ingredients {
+            let label = UILabel()
+            let ingredientText = [ingredient.quantity, ingredient.unit, ingredient.name]
+                .filter { !$0.isEmpty }
+                .joined(separator: " ")
+            label.text = "• \(ingredientText)"
+            label.font = .systemFont(ofSize: 18)
+            label.textColor = UIColor(named: "brownColor")
+            label.numberOfLines = 0
+            itemsStack.addArrangedSubview(label)
+        }
     }
 
     private func loadRecipe() {
@@ -109,7 +126,13 @@ class RecipeViewController: UIViewController {
         view.backgroundColor = UIColor(named: "backgroundColor")
 
         navigationItem.rightBarButtonItem = UIBarButtonItem(
-            primaryAction: UIAction( image: .init(systemName: "xmark")) { _ in }
+            image: UIImage(systemName: "xmark.circle"),
+            primaryAction: UIAction() { [weak self] _ in
+                self?.navigationController?.pushViewController(
+                    ViewController(),
+                    animated: true
+                )
+            }
         )
         
         setupViews()
@@ -132,7 +155,7 @@ class RecipeViewController: UIViewController {
 
         contentStack.axis = .vertical
         contentStack.alignment = .fill
-        contentStack.spacing = 24
+        contentStack.spacing = 16
         contentStack.setCustomSpacing(40, after: titleLabel)
         contentStack.translatesAutoresizingMaskIntoConstraints = false
 
@@ -181,17 +204,13 @@ class RecipeViewController: UIViewController {
                 constant: -48
             ),
 
-            infoCard.heightAnchor.constraint(equalToConstant: 160),
-
-            infoLabel.centerXAnchor.constraint(
-                equalTo: infoCard.centerXAnchor
-            ),
-            infoLabel.centerYAnchor.constraint(
-                equalTo: infoCard.centerYAnchor
-            )
+            infoLabel.topAnchor.constraint(equalTo: infoCard.topAnchor, constant: 16),
+            infoLabel.bottomAnchor.constraint(equalTo: infoCard.bottomAnchor, constant: -16),
+            infoLabel.leadingAnchor.constraint(equalTo: infoCard.leadingAnchor, constant: 16),
+            infoLabel.trailingAnchor.constraint(equalTo: infoCard.trailingAnchor, constant: -16)
         ])
     }
-
+    
     private func makeSectionHeader(_ title: String) -> UIStackView {
         let configuration = UIImage.SymbolConfiguration(
             pointSize: 30,
@@ -200,7 +219,7 @@ class RecipeViewController: UIViewController {
 
         let star = UIImageView(
             image: UIImage(
-                systemName: "star",
+                systemName: "star.fill",
                 withConfiguration: configuration
             )
         )

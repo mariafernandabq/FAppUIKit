@@ -9,8 +9,11 @@ import UIKit
 
 class DiaryViewController: UIViewController {
     
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        title = "Diário"
         
         view.backgroundColor = UIColor(named: "backgroundColor")
     }

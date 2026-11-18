@@ -12,17 +12,23 @@ struct RecipeFile: Decodable {
 }
 
 struct Recipe: Decodable {
-    let receita: String
-    let ingredientes: String
-    let ingredientesBase: [String: String]
-    let modoPreparo: String
-    let linkImagem: String
+    let name: String
+    let time: Int
+    let level: String
+    let category: String
+    let portions: String
+    let steps: [RecipeStep]
+    let ingredients: [Ingredient]
+}
 
-    enum CodingKeys: String, CodingKey {
-        case receita
-        case ingredientes
-        case ingredientesBase
-        case modoPreparo
-        case linkImagem = "link_imagem"
-    }
+struct RecipeStep: Decodable {
+    let order: Int
+    let instruction: String
+    let process: String
+}
+
+struct Ingredient: Decodable {
+    let name: String
+    let quantity: String
+    let unit: String
 }

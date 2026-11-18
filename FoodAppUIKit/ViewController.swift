@@ -20,10 +20,10 @@ class ViewController: UIViewController {
         configuration: UIButton.Configuration,
         systemImageName: String? = nil,
         contentInsets: NSDirectionalEdgeInsets = .init(
-            top: 12,
-            leading: 12,
-            bottom: 12,
-            trailing: 12
+            top: 20,
+            leading: 20,
+            bottom: 20,
+            trailing: 20
         )
     ) -> UIButton {
         var configuration = configuration
@@ -40,20 +40,15 @@ class ViewController: UIViewController {
         return button
     }
 
-//    private let colorButton: UIButton = {
-//        let button = UIButton(type: .system)
-//        button.setTitle("Color Rectangle", for: .normal)
-//        button.translatesAutoresizingMaskIntoConstraints = false
-//        return button
-//    }()
-
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .systemBackground
+        
+       
+        
         setupViews()
         setupConstraints()
         setupActions()
-
     }
 
     private func setupViews() {
@@ -69,10 +64,7 @@ class ViewController: UIViewController {
             rectangleView.bottomAnchor.constraint(equalTo: view.bottomAnchor),
             rectangleView.leadingAnchor.constraint(equalTo: view.leadingAnchor),
             rectangleView.trailingAnchor.constraint(equalTo: view.trailingAnchor),
-//            rectangleView.centerXAnchor.constraint(equalTo: view.centerXAnchor),
-//            rectangleView.centerYAnchor.constraint(equalTo: view.centerYAnchor),
-//            rectangleView.widthAnchor.constraint(equalToConstant: 70),
-//            rectangleView.heightAnchor.constraint(equalToConstant: 70),
+
             colorButton.centerXAnchor.constraint(equalTo: rectangleView.centerXAnchor),
             colorButton.centerYAnchor.constraint(equalTo: rectangleView.centerYAnchor)
         ])
@@ -85,30 +77,7 @@ class ViewController: UIViewController {
 
         return makeGlassButton(configuration: configuration)
     }()
-//    public func makeGlassButton(
-//        configuration: UIButton.Configuration,
-//        systemImageName: String? = nil,
-//        contentInsets: NSDirectionalEdgeInsets = .init(
-//            top: 12,
-//            leading: 12,
-//            bottom: 12,
-//            trailing: 12
-//        )
-//    ) -> UIButton {
-//        var configuration = configuration
-//
-//        configuration.contentInsets = contentInsets
-//
-//        if let systemImageName {
-//            configuration.image = UIImage(systemName: systemImageName)
-//        }
-//
-//        let button = UIButton(configuration: configuration)
-//        button.translatesAutoresizingMaskIntoConstraints = false
-//
-//        return button
-//    }
-
+    
     private func setupActions() {
         colorButton.addTarget(
             self,
